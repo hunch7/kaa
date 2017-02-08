@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting started
+title: Endpoint communication
 permalink: /:path/
-sort_idx: 40
+sort_idx: 65
 ---
 
 {% include variables.md %}

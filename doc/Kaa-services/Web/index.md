@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting started
+title: Endpoint dashboard
 permalink: /:path/
-sort_idx: 40
+sort_idx: 75
 ---
 
 {% include variables.md %}

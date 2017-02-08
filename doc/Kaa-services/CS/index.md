@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting started
+title: Credentials management
 permalink: /:path/
-sort_idx: 40
+sort_idx: 60
 ---
 
 {% include variables.md %}

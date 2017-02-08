@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting started
+title: Sentinel AAA
 permalink: /:path/
-sort_idx: 40
+sort_idx: 55
 ---
 
 {% include variables.md %}

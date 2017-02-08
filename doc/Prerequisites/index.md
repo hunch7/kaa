@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting started
+title: Prerequisites
 permalink: /:path/
-sort_idx: 40
+sort_idx: 30
 ---
 
 {% include variables.md %}
@@ -10,3 +10,8 @@ sort_idx: 40
 * TOC
 {:toc}
 
+## Java
+## Maven
+## Docker
+## NATS
+## Cassandra

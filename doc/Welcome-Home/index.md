@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting started
+title: Welcome
 permalink: /:path/
-sort_idx: 40
+sort_idx: 10
 ---
 
 {% include variables.md %}

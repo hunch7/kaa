@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting started
+title: Kaa services
 permalink: /:path/
-sort_idx: 40
+sort_idx: 50
 ---
 
 {% include variables.md %}
